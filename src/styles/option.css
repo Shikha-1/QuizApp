@@ -18,9 +18,11 @@
 }
 .correct-option {
 	background-color: rgb(0, 179, 0);
+	color: beige;
 }
 .incorrect-option {
 	background-color: rgb(226, 89, 70);
+	color: beige;
 }
 .option-num {
 	color: beige;
