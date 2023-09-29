@@ -119,6 +119,7 @@ export function QuizProvider({ children }) {
         setAvailableQuestions([])
         setCurrentQuestion()
         setQuestions([])
+        getQuizData()
         navigate('/')
     }
 

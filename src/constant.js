@@ -5,4 +5,4 @@ export const sanitizedData = (value) => ({
 })
 
 export const QUES_MARKS = 10
-export const NUM_OF_QUES = 3
+export const NUM_OF_QUES = 10
