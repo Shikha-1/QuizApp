@@ -1,0 +1,11 @@
+.ProgressBar {
+	height: 1.5rem;
+	width: 10rem;
+	border-radius: 0.2rem;
+	border: 2px solid rgb(34, 139, 139);
+	background: rgb(151, 201, 201);
+}
+.progress-bar-filled {
+	height: calc(1.5rem - 2px);
+	background-color: rgb(34, 139, 139);
+}

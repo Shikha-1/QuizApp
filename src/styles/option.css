@@ -1,0 +1,35 @@
+.Option {
+	width: 100%;
+	display: flex;
+	gap: 0.5rem;
+	flex-wrap: nowrap;
+}
+.option-val {
+	width: 100%;
+	background-color: beige;
+}
+.option-num,
+.option-val {
+	font-size: 1.25rem;
+	font-weight: 500;
+	cursor: pointer;
+	border-radius: 0.2rem;
+	padding: 0.25rem 0.5rem;
+}
+.correct-option {
+	background-color: rgb(0, 179, 0);
+}
+.incorrect-option {
+	background-color: rgb(226, 89, 70);
+}
+.option-num {
+	color: beige;
+	background-color: rgb(34, 139, 139);
+	width: 3rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.option-val:hover {
+	box-shadow: 3px 3px 3px #413939;
+}
