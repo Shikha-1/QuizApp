@@ -1,4 +1,4 @@
-# Welcome to our Exciting Quiz Website!
+# Welcome to an Exciting Quiz Website!
 
 Are you ready to test your knowledge and have some fun? Get ready for a thrilling adventure as you answer multiple-choice questions (MCQs) on general knowledge.
 
