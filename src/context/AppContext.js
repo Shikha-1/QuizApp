@@ -69,6 +69,7 @@ export function QuizProvider({ children }) {
     useEffect(() => {
         // Load the initial question when the component mounts
         getQuizData()
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
 
     const getNewQuestion = () => {
