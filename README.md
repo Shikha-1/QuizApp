@@ -14,6 +14,10 @@ Feel the adrenaline rush as you climb the leaderboard. Compete with others and s
 
 Get started now, and let the general knowledge showdown begin! Good luck!
 
+## Disclaimer
+
+This website is fully responsive, feel free to use it both on desktop and mobile.
+
 ## Usage
 
 To use the quiz website, simply follow these steps:
