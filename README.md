@@ -22,13 +22,13 @@ This website is fully responsive, feel free to use it both on desktop and mobile
 
 To use the quiz website, simply follow these steps:
 
-1. Answer the multiple-choice questions to the best of your knowledge.
-2. Earn 10 points for each correct answer.
-3. Keep an eye on the leaderboard to see how you're doing compared to others.
+1. Click on https://amazing-capybara-3a17f5.netlify.app/
+2. Answer the multiple-choice questions to the best of your knowledge.
+3. Earn 10 points for each correct answer.
+4. Keep an eye on the leaderboard to see how you're doing compared to others.
 
 ## Feedback
 
 We value your feedback! If you encounter any issues, have suggestions for improvement, or want to say hello, please don't hesitate to contact me. Your input will help me to make this quiz website even better.
 
 Thank you for visiting this quiz website and participating in this exciting quiz challenge. Have a great time testing your knowledge and competing with others!
-
